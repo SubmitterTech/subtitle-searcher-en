@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/subtitle-searcher-en/static/css/main.e8ef6f36.css",
+    "main.js": "/subtitle-searcher-en/static/js/main.1b391a6b.js",
+    "shrinked-data.js": "/subtitle-searcher-en/static/js/shrinked-data.42a432e8.chunk.js",
+    "static/js/453.11c7fbd8.chunk.js": "/subtitle-searcher-en/static/js/453.11c7fbd8.chunk.js",
+    "index.html": "/subtitle-searcher-en/index.html",
+    "main.e8ef6f36.css.map": "/subtitle-searcher-en/static/css/main.e8ef6f36.css.map",
+    "main.1b391a6b.js.map": "/subtitle-searcher-en/static/js/main.1b391a6b.js.map",
+    "453.11c7fbd8.chunk.js.map": "/subtitle-searcher-en/static/js/453.11c7fbd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ef6f36.css",
+    "static/js/main.1b391a6b.js"
+  ]
+}
