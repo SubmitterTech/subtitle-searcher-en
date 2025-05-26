@@ -1,8 +1,8 @@
 {
-  "short_name": "Ses Ara",
-  "name": "Reşad Halife Ses Kayıtlarında Kelime Ara",
+  "short_name": "Media Search",
+  "name": "Search in Rashad Khalifa Media Recordings",
   "orientation": "portrait",
-  "scope": "/subtitle-searcher/",
+  "scope": "/subtitle-searcher-en/",
   "start_url": ".",
   "icons": [
     {
