@@ -276,7 +276,11 @@ function Search() {
       <div className=" absolute top-16 md:top-24 bottom-2 left-0 right-0 flex justify-center">
         <div className="w-full h-full overflow-y-auto pb-5 md:pb-8 px-2 md:px-2.5">
           {searchTerm.trim() === '' ? (
-            <div className="text-center text-neutral-900/50 md:text-2xl">Please enter the keyword(s) you want to search.</div>
+            <div className="w-full h-1/2 flex flex-col justify-between">
+              <div className="text-center text-neutral-900/50 md:text-2xl">Please enter the keyword(s) you want to search.</div>
+              <div className="text-center text-rose-800 md:text-2xl">Please verify all information. Transcripts derived from original content using AI, and may contain mistakes.</div>
+            </div>
+
           ) : loadedResults.length > 0 ? (
             <div className="flex flex-col space-y-5">
               {loadedResults.map((result, index) => {
